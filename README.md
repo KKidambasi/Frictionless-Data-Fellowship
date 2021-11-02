@@ -11,6 +11,6 @@ To learn Frictionless Data tools and gain deeper insights in open data and repro
 5. Goodtables validation
 6. Data management tools
 7. Presentations and workshops
-8. Abstrat for conferences
+8. Abstract for conferences
 ## Roadmap
 [Here](https://github.com/KKidambasi/Frictionless-Data-Fellowship/issues) is my roadmap for the fellowship
