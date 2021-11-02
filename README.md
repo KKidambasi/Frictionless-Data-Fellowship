@@ -13,3 +13,4 @@ To learn Frictionless Data tools and gain deeper insights in open data and repro
 7. Presentations and workshops
 8. Abstrat for conferences
 ## Roadmap
+[Here](https://github.com/KKidambasi/Frictionless-Data-Fellowship/issues) is my roadmap for the fellowship
