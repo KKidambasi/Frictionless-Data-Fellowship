@@ -2,8 +2,8 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "kevin-data",
-      "path": "kevinsandfly_data.csv",
+      "name": "resource1",
+      "path": "KK_dataset.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -39,7 +39,7 @@
           },
           {
             "name": "Collection date",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
@@ -64,17 +64,17 @@
           },
           {
             "name": "Latitude",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Longitude",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
             "name": "Altitude",
-            "type": "integer",
+            "type": "string",
             "format": "default"
           },
           {
@@ -86,7 +86,19 @@
       }
     }
   ],
-  "name": "kevin",
-  "title": "my-data-package",
-  "description": "data of sandly infection"
+  "name": "my_data_package",
+  "title": "KK_dataset",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "KK",
+      "role": "author"
+    }
+  ]
 }
